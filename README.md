@@ -2,6 +2,10 @@
 
 Blog example with use of [Jekyll](https://jekyllrb.com/)
 
+## Preview 🎉
+
+https://piecioshka.github.io/jekyll-blog/
+
 ## Development
 
 ```bash
