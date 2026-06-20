@@ -26,3 +26,7 @@ jekyll build -b jekyll-blog
 rm -rf tmp/
 CACHE_DIR=tmp/ npx gh-pages -d _site
 ```
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
